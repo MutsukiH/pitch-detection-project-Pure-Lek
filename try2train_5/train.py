@@ -77,7 +77,6 @@ model = PitchCNN(num_classes)
 criterion = nn.CrossEntropyLoss()
 optimizer = optim.Adam(model.parameters(), lr=0.001)
 
-# Assuming you have a train_loader (replace with your actual data loader)
 data = AudioDataset(audio_dir='.\data', 
                     transform=transform)
 train_loader = DataLoader(data, batch_size=32, shuffle=True)
@@ -103,7 +102,6 @@ for epoch in range(num_epochs):
 # ---------------------------
 # test output shape before linear
 # ---------------------------
-# Assuming width and height are the same
 # width = 64
 # num_classes = 12
 # num_classes = 12
