@@ -96,7 +96,7 @@ for epoch in range(num_epochs):
 
 
 # -------------------------------------------------------------------
-# Step 4: Evaluate the model and make predictions (not shown in this simplified example)
+# Step 4: Evaluate the model and make predictions
 # -------------------------------------------------------------------
 
 
