@@ -35,7 +35,7 @@ for i in range(48,60): # ช่วง octave 4
 
     signal, sr = librosa.load('./data/wav/wavnote'+str(i)+'.wav')
 
-    mel_spectrogram = librosa.feature.melspectrogram(signal, sr=22050, n_fft=2048, hop_length=512, n_mels=128) # n_mel คือจำนวน mel band ที่จะแบ่ง
+    mel_spectrogram = librosa.feature.melspectrogram(signal, sr=22050, n_fft=2048, hop_length=512, n_mels=128) # n_mel คือจำนวน mel band ที่จะแบ่ง 
     # ปรับให้สเกลเป็น log
     log_mel_spectrogram = librosa.power_to_db(mel_spectrogram)
 
