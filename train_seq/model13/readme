@@ -2,4 +2,7 @@
 - ไฟล์ Network.py บรรทัด 27 เป็นบรรทัด regularized เพื่อป้องกันโมเดล overfit
     - ถ้าเปิดบรรทัดนี้ ค่า accuracy 90%
     - ถ้าปิดบรรทัดนี้ ค่า accuracy 100%
-- 
+- ใช่ n_mels=1024, 
+     rnn = RNN(884736, 128, n_note)
+     n_iters = 500
+     learning_rate = 0.0005
