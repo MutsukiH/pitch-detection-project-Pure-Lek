@@ -1,0 +1,5 @@
+- โมเดล train และ test แบบ 1 sample ได้ถูกต้องทุกไฟล์
+- ใช่ n_mels=1024, 
+     rnn = RNN(884736, 128, n_note)
+     n_iters = 1000
+     learning_rate = 0.0005
