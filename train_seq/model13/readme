@@ -1,0 +1,5 @@
+- train และ test ด้วยชุดข้อมูลเดียวกัน แบบ All Sample 
+- ไฟล์ Network.py บรรทัด 27 เป็นบรรทัด regularized เพื่อป้องกันโมเดล overfit
+    - ถ้าเปิดบรรทัดนี้ ค่า accuracy 90%
+    - ถ้าปิดบรรทัดนี้ ค่า accuracy 100%
+- 
