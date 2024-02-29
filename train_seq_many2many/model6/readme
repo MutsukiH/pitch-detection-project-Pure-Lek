@@ -1,0 +1,5 @@
+- แบ่ง train set 40 ไฟล์
+- แบ่ง test set 20 ไฟล์
+
+ทดสอบด้วย training set --> acc 100%
+          test set --> 0%
