@@ -1,0 +1,201 @@
+File Name,label,tempo,rhythm,rest,num of pitch
+wav_AbF#C#861.wav,"['Ab', 'F#', 'C#']",100,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest']",3
+wav_GAB7911.wav,"['G', 'A', 'B']",140,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest']",3
+wav_DAbA289.wav,"['D', 'Ab', 'A']",100,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest']",3
+wav_EbGF375.wav,"['Eb', 'G', 'F']",140,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest']",3
+wav_CBbB01011.wav,"['C', 'Bb', 'B']",160,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest']",3
+wav_BbBbBb101010.wav,"['Bb', 'Bb', 'Bb']",100,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest']",3
+wav_AbAbE884.wav,"['Ab', 'Ab', 'E']",120,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest']",3
+wav_F#CC#601.wav,"['F#', 'C', 'C#']",160,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest']",3
+wav_F#BF#6116.wav,"['F#', 'B', 'F#']",100,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest']",3
+wav_DEbC230.wav,"['D', 'Eb', 'C']",120,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest']",3
+wav_AC#Bb9110.wav,"['A', 'C#', 'Bb']",160,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest']",3
+wav_FEbF#536.wav,"['F', 'Eb', 'F#']",80,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest']",3
+wav_AC#F915.wav,"['A', 'C#', 'F']",80,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest']",3
+wav_EBEb4113.wav,"['E', 'B', 'Eb']",80,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest']",3
+wav_CFEb053.wav,"['C', 'F', 'Eb']",120,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest']",3
+wav_BbDAb1028.wav,"['Bb', 'D', 'Ab']",120,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest']",3
+wav_EEAb448.wav,"['E', 'E', 'Ab']",140,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest']",3
+wav_EbDC320.wav,"['Eb', 'D', 'C']",100,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest']",3
+wav_GF#D762.wav,"['G', 'F#', 'D']",140,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest']",3
+wav_FAE594.wav,"['F', 'A', 'E']",140,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest']",3
+wav_BGG1177.wav,"['B', 'G', 'G']",80,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest']",3
+wav_BFA1159.wav,"['B', 'F', 'A']",160,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest']",3
+wav_C#EG147.wav,"['C#', 'E', 'G']",80,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest']",3
+wav_C#CD102.wav,"['C#', 'C', 'D']",120,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest']",3
+wav_AbF#Ab868.wav,"['Ab', 'F#', 'Ab']",160,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest']",3
+wav_BEbBAb113118.wav,"['B', 'Eb', 'B', 'Ab']",140,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest']",4
+wav_AF#EAb9648.wav,"['A', 'F#', 'E', 'Ab']",100,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest']",4
+wav_BbAC#E10914.wav,"['Bb', 'A', 'C#', 'E']",160,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest']",4
+wav_F#BbBF610115.wav,"['F#', 'Bb', 'B', 'F']",120,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest']",4
+wav_AbGAbB87811.wav,"['Ab', 'G', 'Ab', 'B']",160,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest']",4
+wav_CC#CA0109.wav,"['C', 'C#', 'C', 'A']",160,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest']",4
+wav_BbF#BbD106102.wav,"['Bb', 'F#', 'Bb', 'D']",160,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest']",4
+wav_BBCC#111101.wav,"['B', 'B', 'C', 'C#']",100,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest']",4
+wav_EBDC41120.wav,"['E', 'B', 'D', 'C']",120,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest']",4
+wav_GFFB75511.wav,"['G', 'F', 'F', 'B']",160,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest']",4
+wav_F#AbBbBb681010.wav,"['F#', 'Ab', 'Bb', 'Bb']",120,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest']",4
+wav_FGC#F5715.wav,"['F', 'G', 'C#', 'F']",120,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest']",4
+wav_CDDF#0226.wav,"['C', 'D', 'D', 'F#']",120,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest']",4
+wav_EBbAG41097.wav,"['E', 'Bb', 'A', 'G']",100,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest']",4
+wav_FCGF#5076.wav,"['F', 'C', 'G', 'F#']",100,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest']",4
+wav_EbFFE3554.wav,"['Eb', 'F', 'F', 'E']",140,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest']",4
+wav_C#EGBb14710.wav,"['C#', 'E', 'G', 'Bb']",80,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest']",4
+wav_C#CF#D1062.wav,"['C#', 'C', 'F#', 'D']",100,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest']",4
+wav_EbAAC3990.wav,"['Eb', 'A', 'A', 'C']",80,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest']",4
+wav_AbC#F#A8169.wav,"['Ab', 'C#', 'F#', 'A']",80,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest']",4
+wav_DAbEbEb2833.wav,"['D', 'Ab', 'Eb', 'Eb']",80,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest']",4
+wav_GEEEb7443.wav,"['G', 'E', 'E', 'Eb']",80,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest']",4
+wav_ADEbG9237.wav,"['A', 'D', 'Eb', 'G']",140,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest']",4
+wav_DEbAbC#2381.wav,"['D', 'Eb', 'Ab', 'C#']",140,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest']",4
+wav_EGF#F#4766.wav,"['E', 'G', 'F#', 'F#']",140,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest']",4
+wav_BF#CDAb116028.wav,"['B', 'F#', 'C', 'D', 'Ab']",100,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest']",5
+wav_BCEEbB1104311.wav,"['B', 'C', 'E', 'Eb', 'B']",160,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest']",5
+wav_AbBbCGF#810076.wav,"['Ab', 'Bb', 'C', 'G', 'F#']",80,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest']",5
+wav_C#F#F#F#F#16666.wav,"['C#', 'F#', 'F#', 'F#', 'F#']",160,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest']",5
+wav_C#EGAD14792.wav,"['C#', 'E', 'G', 'A', 'D']",100,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest']",5
+wav_CDF#FD02652.wav,"['C', 'D', 'F#', 'F', 'D']",160,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest']",5
+wav_DGBAbC271180.wav,"['D', 'G', 'B', 'Ab', 'C']",160,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest']",5
+wav_GABC#C#791111.wav,"['G', 'A', 'B', 'C#', 'C#']",100,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest']",5
+wav_BbADBG1092117.wav,"['Bb', 'A', 'D', 'B', 'G']",80,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest']",5
+wav_EC#FCE41504.wav,"['E', 'C#', 'F', 'C', 'E']",160,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest']",5
+wav_AFEFBb954510.wav,"['A', 'F', 'E', 'F', 'Bb']",100,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest']",5
+wav_F#AbC#EbB681311.wav,"['F#', 'Ab', 'C#', 'Eb', 'B']",120,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest']",5
+wav_CBbFC#C#010511.wav,"['C', 'Bb', 'F', 'C#', 'C#']",100,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest']",5
+wav_EbBAGC311970.wav,"['Eb', 'B', 'A', 'G', 'C']",80,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest']",5
+wav_GDGEA72749.wav,"['G', 'D', 'G', 'E', 'A']",80,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest']",5
+wav_AFEbBbF953105.wav,"['A', 'F', 'Eb', 'Bb', 'F']",140,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest']",5
+wav_AbCAbDE80824.wav,"['Ab', 'C', 'Ab', 'D', 'E']",120,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest']",5
+wav_FGEbF#G57367.wav,"['F', 'G', 'Eb', 'F#', 'G']",120,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest']",5
+wav_EbC#BbBBb31101110.wav,"['Eb', 'C#', 'Bb', 'B', 'Bb']",120,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest']",5
+wav_EBAbAbF411885.wav,"['E', 'B', 'Ab', 'Ab', 'F']",120,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest']",5
+wav_F#EbC#AEb63193.wav,"['F#', 'Eb', 'C#', 'A', 'Eb']",140,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest']",5
+wav_DEbDEA23249.wav,"['D', 'Eb', 'D', 'E', 'A']",80,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest']",5
+wav_FAbACEb58903.wav,"['F', 'Ab', 'A', 'C', 'Eb']",140,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest']",5
+wav_BbEBbBbAb10410108.wav,"['Bb', 'E', 'Bb', 'Bb', 'Ab']",140,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest']",5
+wav_EbAFAB395911.wav,"['Eb', 'A', 'F', 'A', 'B']",140,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest']",5
+wav_DAbGBbAbBb28710810.wav,"['D', 'Ab', 'G', 'Bb', 'Ab', 'Bb']",140,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",6
+wav_F#ABbCGC#6910071.wav,"['F#', 'A', 'Bb', 'C', 'G', 'C#']",100,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",6
+wav_BC#CF#BE11106114.wav,"['B', 'C#', 'C', 'F#', 'B', 'E']",140,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",6
+wav_DFEbCC#D253012.wav,"['D', 'F', 'Eb', 'C', 'C#', 'D']",140,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",6
+wav_C#F#BbGBbF#16107106.wav,"['C#', 'F#', 'Bb', 'G', 'Bb', 'F#']",160,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",6
+wav_C#BbF#FBbC11065100.wav,"['C#', 'Bb', 'F#', 'F', 'Bb', 'C']",160,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",6
+wav_CAbFBBF#08511116.wav,"['C', 'Ab', 'F', 'B', 'B', 'F#']",120,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",6
+wav_EbEbGBbEC#3371041.wav,"['Eb', 'Eb', 'G', 'Bb', 'E', 'C#']",100,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",6
+wav_AbBAbEEbA8118439.wav,"['Ab', 'B', 'Ab', 'E', 'Eb', 'A']",160,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",6
+wav_F#F#DC#AD662192.wav,"['F#', 'F#', 'D', 'C#', 'A', 'D']",160,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",6
+wav_FDEAFAb524958.wav,"['F', 'D', 'E', 'A', 'F', 'Ab']",100,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",6
+wav_FC#DAbAbA512889.wav,"['F', 'C#', 'D', 'Ab', 'Ab', 'A']",120,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",6
+wav_AbEbAFC#Bb8395110.wav,"['Ab', 'Eb', 'A', 'F', 'C#', 'Bb']",100,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",6
+wav_GBF#F#AAb7116698.wav,"['G', 'B', 'F#', 'F#', 'A', 'Ab']",140,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",6
+wav_GBbC#BFEb71011153.wav,"['G', 'Bb', 'C#', 'B', 'F', 'Eb']",160,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",6
+wav_BbFFACEb1055903.wav,"['Bb', 'F', 'F', 'A', 'C', 'Eb']",140,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",6
+wav_EAAEbF#G499367.wav,"['E', 'A', 'A', 'Eb', 'F#', 'G']",100,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",6
+wav_CGBEbF#F0711365.wav,"['C', 'G', 'B', 'Eb', 'F#', 'F']",120,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",6
+wav_BEAbDGF1148275.wav,"['B', 'E', 'Ab', 'D', 'G', 'F']",120,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",6
+wav_AEBEEC9411440.wav,"['A', 'E', 'B', 'E', 'E', 'C']",80,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",6
+wav_ECEAbDG404827.wav,"['E', 'C', 'E', 'Ab', 'D', 'G']",120,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",6
+wav_EbDC#C#CE321104.wav,"['Eb', 'D', 'C#', 'C#', 'C', 'E']",80,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",6
+wav_BbGCDEbB10702311.wav,"['Bb', 'G', 'C', 'D', 'Eb', 'B']",80,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",6
+wav_ACEbGDB9037211.wav,"['A', 'C', 'Eb', 'G', 'D', 'B']",80,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",6
+wav_CFFDAAb055298.wav,"['C', 'F', 'F', 'D', 'A', 'Ab']",80,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",6
+wav_FADBFABb592115910.wav,"['F', 'A', 'D', 'B', 'F', 'A', 'Bb']",120,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",7
+wav_CBbECEEbC#01040431.wav,"['C', 'Bb', 'E', 'C', 'E', 'Eb', 'C#']",160,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",7
+wav_GF#BbEAbBbE761048104.wav,"['G', 'F#', 'Bb', 'E', 'Ab', 'Bb', 'E']",140,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",7
+wav_C#F#AECFD1694052.wav,"['C#', 'F#', 'A', 'E', 'C', 'F', 'D']",140,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",7
+wav_DEbGAABbG23799107.wav,"['D', 'Eb', 'G', 'A', 'A', 'Bb', 'G']",80,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",7
+wav_DFAFAbC#Ab2595818.wav,"['D', 'F', 'A', 'F', 'Ab', 'C#', 'Ab']",160,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",7
+wav_C#BbBbDCGAb110102078.wav,"['C#', 'Bb', 'Bb', 'D', 'C', 'G', 'Ab']",160,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",7
+wav_GCBBbAFA701110959.wav,"['G', 'C', 'B', 'Bb', 'A', 'F', 'A']",140,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",7
+wav_FC#BFFEC#51115541.wav,"['F', 'C#', 'B', 'F', 'F', 'E', 'C#']",140,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",7
+wav_EbCDBbEbBA302103119.wav,"['Eb', 'C', 'D', 'Bb', 'Eb', 'B', 'A']",80,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",7
+wav_AEbF#AC#CF#9369106.wav,"['A', 'Eb', 'F#', 'A', 'C#', 'C', 'F#']",160,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",7
+wav_BbEEEbBbEF104431045.wav,"['Bb', 'E', 'E', 'Eb', 'Bb', 'E', 'F']",140,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",7
+wav_AbFCC#GC#Bb85017110.wav,"['Ab', 'F', 'C', 'C#', 'G', 'C#', 'Bb']",100,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",7
+wav_AbC#CEbGGF#8103776.wav,"['Ab', 'C#', 'C', 'Eb', 'G', 'G', 'F#']",100,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",7
+wav_BDFBDAbB1125112811.wav,"['B', 'D', 'F', 'B', 'D', 'Ab', 'B']",80,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",7
+wav_ABFGF#F#D91157662.wav,"['A', 'B', 'F', 'G', 'F#', 'F#', 'D']",120,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",7
+wav_F#AF#AbEbAbB69683811.wav,"['F#', 'A', 'F#', 'Ab', 'Eb', 'Ab', 'B']",100,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",7
+wav_EbBAbF#DDC31186220.wav,"['Eb', 'B', 'Ab', 'F#', 'D', 'D', 'C']",100,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",7
+wav_BbGGGC#DE10777124.wav,"['Bb', 'G', 'G', 'G', 'C#', 'D', 'E']",80,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",7
+wav_F#EC#C#BF#G64111167.wav,"['F#', 'E', 'C#', 'C#', 'B', 'F#', 'G']",120,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",7
+wav_BGAbF#EAF11786495.wav,"['B', 'G', 'Ab', 'F#', 'E', 'A', 'F']",160,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",7
+wav_EAbC#AbBbEbEb48181033.wav,"['E', 'Ab', 'C#', 'Ab', 'Bb', 'Eb', 'Eb']",80,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",7
+wav_CDEbCF#BEb02306113.wav,"['C', 'D', 'Eb', 'C', 'F#', 'B', 'Eb']",120,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",7
+wav_EAbEbDBCC48321100.wav,"['E', 'Ab', 'Eb', 'D', 'B', 'C', 'C']",120,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",7
+wav_GAAEbGGC#7993771.wav,"['G', 'A', 'A', 'Eb', 'G', 'G', 'C#']",100,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",7
+wav_EbFAbGDEbCG35872307.wav,"['Eb', 'F', 'Ab', 'G', 'D', 'Eb', 'C', 'G']",140,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",8
+wav_GF#F#FC#BED766511142.wav,"['G', 'F#', 'F#', 'F', 'C#', 'B', 'E', 'D']",80,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",8
+wav_EbBbEbDAC#F#E310329164.wav,"['Eb', 'Bb', 'Eb', 'D', 'A', 'C#', 'F#', 'E']",100,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",8
+wav_AbCFCGDBC#805072111.wav,"['Ab', 'C', 'F', 'C', 'G', 'D', 'B', 'C#']",80,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",8
+wav_BbGAbGDFF#Eb107872563.wav,"['Bb', 'G', 'Ab', 'G', 'D', 'F', 'F#', 'Eb']",140,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",8
+wav_BbEbFEbC#BbC#Ab1035311018.wav,"['Bb', 'Eb', 'F', 'Eb', 'C#', 'Bb', 'C#', 'Ab']",80,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",8
+wav_C#BbF#F#EbCGA110663079.wav,"['C#', 'Bb', 'F#', 'F#', 'Eb', 'C', 'G', 'A']",80,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",8
+wav_C#GBF#BBGG17116111177.wav,"['C#', 'G', 'B', 'F#', 'B', 'B', 'G', 'G']",160,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",8
+wav_F#C#EBAbF#EbD614118632.wav,"['F#', 'C#', 'E', 'B', 'Ab', 'F#', 'Eb', 'D']",100,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",8
+wav_FCDDAFEC#50229541.wav,"['F', 'C', 'D', 'D', 'A', 'F', 'E', 'C#']",80,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",8
+wav_EFEEbBEbBF4543113115.wav,"['E', 'F', 'E', 'Eb', 'B', 'Eb', 'B', 'F']",120,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",8
+wav_FAGAbEbDCEb59783203.wav,"['F', 'A', 'G', 'Ab', 'Eb', 'D', 'C', 'Eb']",120,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",8
+wav_F#F#AEGEEbA66947439.wav,"['F#', 'F#', 'A', 'E', 'G', 'E', 'Eb', 'A']",160,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",8
+wav_BAbGBCGAF#1187110796.wav,"['B', 'Ab', 'G', 'B', 'C', 'G', 'A', 'F#']",140,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",8
+wav_EEbAAbEF#AbF43984685.wav,"['E', 'Eb', 'A', 'Ab', 'E', 'F#', 'Ab', 'F']",100,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",8
+wav_GC#BbC#AbGAB7110187911.wav,"['G', 'C#', 'Bb', 'C#', 'Ab', 'G', 'A', 'B']",160,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",8
+wav_AbBBbEBbC#DAb81110410128.wav,"['Ab', 'B', 'Bb', 'E', 'Bb', 'C#', 'D', 'Ab']",160,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",8
+wav_CDEbBbBbBbFC02310101050.wav,"['C', 'D', 'Eb', 'Bb', 'Bb', 'Bb', 'F', 'C']",120,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",8
+wav_DAC#AFCBbB2919501011.wav,"['D', 'A', 'C#', 'A', 'F', 'C', 'Bb', 'B']",140,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",8
+wav_CBCCEAbBbC0110048100.wav,"['C', 'B', 'C', 'C', 'E', 'Ab', 'Bb', 'C']",140,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",8
+wav_BAbCFCAbAbE118050884.wav,"['B', 'Ab', 'C', 'F', 'C', 'Ab', 'Ab', 'E']",100,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",8
+wav_ADC#AFEDF#92195426.wav,"['A', 'D', 'C#', 'A', 'F', 'E', 'D', 'F#']",100,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",8
+wav_AEDBbF#AFBb9421069510.wav,"['A', 'E', 'D', 'Bb', 'F#', 'A', 'F', 'Bb']",120,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",8
+wav_DEBC#F#AC#Bb2411169110.wav,"['D', 'E', 'B', 'C#', 'F#', 'A', 'C#', 'Bb']",160,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",8
+wav_EFC#CFC#C#G45105117.wav,"['E', 'F', 'C#', 'C', 'F', 'C#', 'C#', 'G']",120,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",8
+wav_CEGEbDGF#BbC#0473276101.wav,"['C', 'E', 'G', 'Eb', 'D', 'G', 'F#', 'Bb', 'C#']",140,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",9
+wav_BDEbEbACEBbA11233904109.wav,"['B', 'D', 'Eb', 'Eb', 'A', 'C', 'E', 'Bb', 'A']",140,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",9
+wav_AbAGBbBF#GAbB897101167811.wav,"['Ab', 'A', 'G', 'Bb', 'B', 'F#', 'G', 'Ab', 'B']",120,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",9
+wav_FDCBDDBC#B520112211111.wav,"['F', 'D', 'C', 'B', 'D', 'D', 'B', 'C#', 'B']",160,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",9
+wav_FAbCAbBAbAAAb5808118998.wav,"['F', 'Ab', 'C', 'Ab', 'B', 'Ab', 'A', 'A', 'Ab']",140,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",9
+wav_BAbEC#EDF#AF1184142695.wav,"['B', 'Ab', 'E', 'C#', 'E', 'D', 'F#', 'A', 'F']",100,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",9
+wav_GGAbDF#FECEb778265403.wav,"['G', 'G', 'Ab', 'D', 'F#', 'F', 'E', 'C', 'Eb']",100,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",9
+wav_DEAC#FEC#FF249154155.wav,"['D', 'E', 'A', 'C#', 'F', 'E', 'C#', 'F', 'F']",100,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",9
+wav_ABF#BbC#FEbEAb91161015348.wav,"['A', 'B', 'F#', 'Bb', 'C#', 'F', 'Eb', 'E', 'Ab']",140,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",9
+wav_GF#EAECBGEb7649401173.wav,"['G', 'F#', 'E', 'A', 'E', 'C', 'B', 'G', 'Eb']",120,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",9
+wav_DC#AAbAEbBbC#A2198931019.wav,"['D', 'C#', 'A', 'Ab', 'A', 'Eb', 'Bb', 'C#', 'A']",120,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",9
+wav_F#BFGCAAFC#6115709951.wav,"['F#', 'B', 'F', 'G', 'C', 'A', 'A', 'F', 'C#']",140,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",9
+wav_EF#F#ACGAbDC466907820.wav,"['E', 'F#', 'F#', 'A', 'C', 'G', 'Ab', 'D', 'C']",160,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",9
+wav_EGBbBFBbFBD4710115105112.wav,"['E', 'G', 'Bb', 'B', 'F', 'Bb', 'F', 'B', 'D']",120,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",9
+wav_C#EbFF#GAGDE135679724.wav,"['C#', 'Eb', 'F', 'F#', 'G', 'A', 'G', 'D', 'E']",160,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",9
+wav_C#BbC#DF#BCEbE11012611034.wav,"['C#', 'Bb', 'C#', 'D', 'F#', 'B', 'C', 'Eb', 'E']",100,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",9
+wav_BbAAbFC#EFGC1098514570.wav,"['Bb', 'A', 'Ab', 'F', 'C#', 'E', 'F', 'G', 'C']",120,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",9
+wav_F#C#BbFEbBEbEbG61105311337.wav,"['F#', 'C#', 'Bb', 'F', 'Eb', 'B', 'Eb', 'Eb', 'G']",100,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",9
+wav_ACEbF#AbAbBbAbF#9036881086.wav,"['A', 'C', 'Eb', 'F#', 'Ab', 'Ab', 'Bb', 'Ab', 'F#']",160,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",9
+wav_BbCDCEbEbC#CBb10020331010.wav,"['Bb', 'C', 'D', 'C', 'Eb', 'Eb', 'C#', 'C', 'Bb']",80,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",9
+wav_CFC#EGC#DEBb0514712410.wav,"['C', 'F', 'C#', 'E', 'G', 'C#', 'D', 'E', 'Bb']",160,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",9
+wav_EbBbDEAbBbDBD310248102112.wav,"['Eb', 'Bb', 'D', 'E', 'Ab', 'Bb', 'D', 'B', 'D']",80,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",9
+wav_EbFBGBbF#AbF#F#35117106866.wav,"['Eb', 'F', 'B', 'G', 'Bb', 'F#', 'Ab', 'F#', 'F#']",80,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",9
+wav_AbEbBCBbC#CF#G83110101067.wav,"['Ab', 'Eb', 'B', 'C', 'Bb', 'C#', 'C', 'F#', 'G']",80,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",9
+wav_EbF#EbCFCGFG363050757.wav,"['Eb', 'F#', 'Eb', 'C', 'F', 'C', 'G', 'F', 'G']",80,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",9
+wav_AbBAAEbC#CFEbB811993105311.wav,"['Ab', 'B', 'A', 'A', 'Eb', 'C#', 'C', 'F', 'Eb', 'B']",120,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",10
+wav_EF#AEEBBbDEbF469441110235.wav,"['E', 'F#', 'A', 'E', 'E', 'B', 'Bb', 'D', 'Eb', 'F']",160,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",10
+wav_GEbEEDEbBF#F#C#73442311661.wav,"['G', 'Eb', 'E', 'E', 'D', 'Eb', 'B', 'F#', 'F#', 'C#']",140,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",10
+wav_BF#F#AGF#DBbEEb116697621043.wav,"['B', 'F#', 'F#', 'A', 'G', 'F#', 'D', 'Bb', 'E', 'Eb']",100,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",10
+wav_DC#C#F#FEbCAbAG2116530897.wav,"['D', 'C#', 'C#', 'F#', 'F', 'Eb', 'C', 'Ab', 'A', 'G']",140,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",10
+wav_CCGAbEbEAbAAG0078348997.wav,"['C', 'C', 'G', 'Ab', 'Eb', 'E', 'Ab', 'A', 'A', 'G']",100,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",10
+wav_F#GF#GBAEFCC67671194500.wav,"['F#', 'G', 'F#', 'G', 'B', 'A', 'E', 'F', 'C', 'C']",100,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",10
+wav_C#CEbEbDAF#AEF1033296945.wav,"['C#', 'C', 'Eb', 'Eb', 'D', 'A', 'F#', 'A', 'E', 'F']",160,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",10
+wav_FC#DDEAbBF#BAb512248116118.wav,"['F', 'C#', 'D', 'D', 'E', 'Ab', 'B', 'F#', 'B', 'Ab']",140,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",10
+wav_BbGCF#BFEC#GB1070611541711.wav,"['Bb', 'G', 'C', 'F#', 'B', 'F', 'E', 'C#', 'G', 'B']",140,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",10
+wav_GADDBbF#C#CDE79221061024.wav,"['G', 'A', 'D', 'D', 'Bb', 'F#', 'C#', 'C', 'D', 'E']",100,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",10
+wav_EEbBbAbBbEBbGBF#43108104107116.wav,"['E', 'Eb', 'Bb', 'Ab', 'Bb', 'E', 'Bb', 'G', 'B', 'F#']",100,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",10
+wav_F#AbGBF#C#AAbGBb687116198710.wav,"['F#', 'Ab', 'G', 'B', 'F#', 'C#', 'A', 'Ab', 'G', 'Bb']",140,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",10
+wav_DBbBbBF#GC#EbF#E2101011671364.wav,"['D', 'Bb', 'Bb', 'B', 'F#', 'G', 'C#', 'Eb', 'F#', 'E']",160,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",10
+wav_BbAECFBFCAbC#109405115081.wav,"['Bb', 'A', 'E', 'C', 'F', 'B', 'F', 'C', 'Ab', 'C#']",160,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",10
+wav_C#FBCCFF#DC#A15110056219.wav,"['C#', 'F', 'B', 'C', 'C', 'F', 'F#', 'D', 'C#', 'A']",120,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",10
+wav_FBFGAbCFBbCD511578051002.wav,"['F', 'B', 'F', 'G', 'Ab', 'C', 'F', 'Bb', 'C', 'D']",80,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",10
+wav_CAbCFC#DEbC#AbBb08051231810.wav,"['C', 'Ab', 'C', 'F', 'C#', 'D', 'Eb', 'C#', 'Ab', 'Bb']",120,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",10
+wav_AEAbEbGCAEFC9483709450.wav,"['A', 'E', 'Ab', 'Eb', 'G', 'C', 'A', 'E', 'F', 'C']",120,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",10
+wav_EbDC#C#CGDEbDF#3211072326.wav,"['Eb', 'D', 'C#', 'C#', 'C', 'G', 'D', 'Eb', 'D', 'F#']",80,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",10
+wav_EbBbBC#ADEbBC#Eb3101119231113.wav,"['Eb', 'Bb', 'B', 'C#', 'A', 'D', 'Eb', 'B', 'C#', 'Eb']",80,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",10
+wav_BFAbFAAbAbGBbA115859887109.wav,"['B', 'F', 'Ab', 'F', 'A', 'Ab', 'Ab', 'G', 'Bb', 'A']",120,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",10
+wav_ADFBbC#BbGEBbAb9251011074108.wav,"['A', 'D', 'F', 'Bb', 'C#', 'Bb', 'G', 'E', 'Bb', 'Ab']",80,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",10
+wav_AbEEbBbAbBbGBFD8431081071152.wav,"['Ab', 'E', 'Eb', 'Bb', 'Ab', 'Bb', 'G', 'B', 'F', 'D']",80,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",10
+wav_EbAbBbGC#C#C#C#EbC38107111130.wav,"['Eb', 'Ab', 'Bb', 'G', 'C#', 'C#', 'C#', 'C#', 'Eb', 'C']",160,"['white', 'white', 'white']","['half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest', 'half rest']",10
